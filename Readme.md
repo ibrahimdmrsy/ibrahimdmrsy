@@ -17,6 +17,6 @@ I became particularly interested in exploring how newly developed software can b
 - 🧬 Background in **research & experimental medicine**  
 - 🚀 Always improving my skills in the **IT field** 
 
-🤝 I’m looking to collaborate on: Data Analytics projects, open source contributions.
-💬 Ask me about: SQL, Python, Tableau, Looker Studio, Amplitude, BigQuery and Poer BI.
+🤝 I’m looking to collaborate on: Data Analytics projects, open source contributions
+💬 Ask me about: SQL, Python, Tableau, Looker Studio, Amplitude, BigQuery and Poer BI
 📫 How to reach me: ibrahimdemirsoy87@gmail.com
