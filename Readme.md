@@ -10,4 +10,13 @@ I became particularly interested in exploring how newly developed software can b
 # I continue to improve myself more in IT field. ⚡ 
 
 
-![Data Science overwork](https://github.com/user-attachments/assets/1a4ee991-07bb-4f33-9157-e2607e38d1f0)
+![Data Science overwork](https://github.com/user-attachments/assets/1a4ee991-07bb-4f33-9157-e2607e38d1f0)  
+
+🌟 About Me
+- 📊 Passionate about **data analysis & visualization**  
+- 🧬 Background in **research & experimental medicine**  
+- 🚀 Always improving my skills in the **IT field** 
+
+🤝 I’m looking to collaborate on: Data Analytics projects, open source contributions.
+💬 Ask me about: SQL, Python, Tableau, Looker Studio, Amplitude, BigQuery and Poer BI.
+📫 How to reach me: ibrahimdemirsoy87@gmail.com
