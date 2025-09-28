@@ -7,7 +7,7 @@ I became particularly interested in exploring how newly developed software can b
 - Google Sheets
 - Power BI
 - Google Analytics 4 
-# I continue to improve myself more in IT field. ⚡ 
+# I continue to improve myself in the IT field. ⚡ 
 
 
 ![Data Science overwork](https://github.com/user-attachments/assets/1a4ee991-07bb-4f33-9157-e2607e38d1f0)  
