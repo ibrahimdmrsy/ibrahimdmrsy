@@ -22,6 +22,7 @@ I became particularly interested in exploring how newly developed software can b
 - 💬 Ask me about: SQL, Python, Tableau, Looker Studio, Amplitude, BigQuery and Poer BI
 - 📫 How to reach me: ibrahimdemirsoy87@gmail.com
 
+
 # 💡 Data Analyst | SQL | Python | Tableau | Power BI  
 
 ![Profile views](https://komarev.com/ghpvc/?username=KULLANICI_ADIN&color=blue) 
