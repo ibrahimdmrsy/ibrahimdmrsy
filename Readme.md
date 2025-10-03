@@ -18,7 +18,7 @@ I became particularly interested in exploring how newly developed software can b
 - 🚀 Always improving my skills in the **IT field**
   
 # Connect wit me
-- 🤝 I’m looking to collaborate on: Data Analytics projects, open source contributions
+- 🤝 I’m looking forward to collaborate on: Data Analytics projects, open source contributions
 - 💬 Ask me about: SQL, Python, Tableau, Looker Studio, Amplitude, BigQuery and Power BI
 - 📫 How to reach me: ibrahimdemirsoy87@gmail.com
 
