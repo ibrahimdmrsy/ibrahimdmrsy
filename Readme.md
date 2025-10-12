@@ -6,7 +6,8 @@ I became particularly interested in exploring how newly developed software can b
 - Tableau
 - Google Sheets
 - Power BI
-- Google Analytics 4 
+- Google Analytics 4
+- Amplitude
 # I continue to improve myself in the IT field. ⚡ 
 
 
